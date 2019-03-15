@@ -11,16 +11,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
     "express-query-int": "^1.0.1",
-    "lodash": "^4.17.5",
-    "mongoose": "^4.13.10",
+    "lodash": "^4.17.11",
+    "mongoose": "^4.13.18",
     "mongoose-paginate": "^5.0.3",
     "node-restful": "^0.2.6",
-    "pm2": "^2.9.3"
+    "pm2": "^2.10.4"
   },
   "devDependencies": {
-    "nodemon": "^1.14.12"
+    "nodemon": "^1.18.10"
   }
 }
